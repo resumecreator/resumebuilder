@@ -1,0 +1,10 @@
+[
+    {
+        "key": "Derecha",
+        "value": true
+    },
+    {
+        "key": "Izquierda",
+        "value": false
+    }
+]

@@ -1,0 +1,10 @@
+.section {
+    padding-right: 25%;
+    padding-left: 25%;
+    box-sizing: border-box;
+    background-color: var(--sect-bg-color);
+}
+
+#tabsSelections {    
+    background-color:  var(--sect-tabs--bg-color);
+}

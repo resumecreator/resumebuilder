@@ -1,0 +1,81 @@
+#resume {
+    width: 794px;
+    height: 1123px;
+    background-color: white;
+    margin-left: 60px;
+}
+
+#sidebar {
+    margin: 0px;
+}
+
+.bodyCustomize {    
+    background-color: var(--sect-bg-color);
+    padding-bottom: 2%;
+}
+
+.resumeGroup {
+    padding-top: 10%;
+    height: 943px;
+}
+
+#profilePic {
+    min-width: 150px;
+    max-width: 150px;
+    margin-top: 5%;
+}
+
+#name {
+  letter-spacing: 5px;
+}
+
+#personalData {
+   padding-top: 30px;
+   height: 180px;
+   letter-spacing: 3px;
+}
+
+#resumeSidebar {
+    font-size: 11px;
+}
+
+#resumeMainContent {
+    font-size: 11px;
+}
+
+.resumeSectionTable {
+    width: 100%;
+}
+
+.resumeSectionGrid {
+    text-align: center;
+    margin: 0px 0px;
+}
+
+.resumeSectionTitle {
+    text-align: center;
+    letter-spacing: 3px;
+ }
+
+.key {
+    font-weight: bold;
+}
+
+.icon {
+    font-size: 16px;
+}
+
+.value {
+	width: 66%;
+    letter-spacing: 1px;
+}
+
+.itemGrid {
+    width: 100%;
+    letter-spacing: 1px;
+}
+
+.dividerGrid {
+    
+    margin-bottom: 5px;
+}

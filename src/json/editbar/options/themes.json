@@ -1,0 +1,14 @@
+[
+    {
+        "key": "Tradicional",
+        "value": 0
+    },
+    {
+        "key": "Moderno",
+        "value": 1
+    },
+    {
+        "key": "Minimalista",
+        "value": 2
+    }
+]

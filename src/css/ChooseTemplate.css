@@ -1,0 +1,17 @@
+.carousel-inner img {
+  width: 25%;
+  height: 25%;
+}
+
+.carousel-inner:hover img {
+  cursor: zoom-in;
+}
+
+.carousel-inner:active img {
+  width: 794px;
+  height: 1123px;
+}
+
+#carousel {  
+  background-color: var(--sect-bg-color);
+}

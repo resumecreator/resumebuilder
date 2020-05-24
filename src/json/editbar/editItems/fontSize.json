@@ -1,0 +1,14 @@
+[
+    {
+        "content": "body",
+        "group": "sidebar",
+        "attribute": "sizeTitle",
+        "label": "Cuerpo / Barra (titulos)"
+    },
+    {
+        "content": "body",
+        "group": "mainContent",
+        "attribute": "sizeTitle",
+        "label": "Cuerpo (titulos)"
+    }
+]
